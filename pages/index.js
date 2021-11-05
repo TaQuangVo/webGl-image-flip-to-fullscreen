@@ -21,3 +21,14 @@ export default function Home() {
     </div>
   )
 }
+
+
+//https://codesandbox.io/s/react-three-fiber-shader-forked-letbv?file=/src/App.js
+/*
+
+    image changing effect;
+    export a custom material mesh class;
+    apply usestring befor export
+    extend befor export
+
+*/
